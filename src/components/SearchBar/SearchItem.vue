@@ -59,12 +59,12 @@ const handleClick = () => {
 }
 
 .search-item.active {
-    background-color: #f7f7f7;
+    background-color: #f7f7f7b1;
     box-shadow: 0 2px 4px rgba(0, 0, 0, 0.06);
 }
 
 .search-item:hover:not(.active) {
-    background-color: #f5f5f5;
+    background-color: #c9c9c9;
 }
 
 .divider {
